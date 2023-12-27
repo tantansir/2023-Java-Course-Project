@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Homework2_2</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Homework2_2</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Homework2_2.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\Homework2_2.java.sdk</path>
+			<symbols>
+				<symbol>Homework2_2</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

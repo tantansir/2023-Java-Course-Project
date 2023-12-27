@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Homework2</label>
+		<id>16</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Homework2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Homework2.jcp</path>
+		</project>
+	</projects>
+</workspace>

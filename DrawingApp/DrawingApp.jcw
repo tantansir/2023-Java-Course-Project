@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DrawingApp</label>
+		<id>15</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>DrawingApp.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DrawingApp.jcp</path>
+		</project>
+	</projects>
+</workspace>
